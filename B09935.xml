@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sad and true relation of a person found dead in Gun-Fields, on the back-side of Ratcliff-Highway on Sunday morning, the 12th. of this instant September, 1686. Wherein he was found lying against a banck side in a ditch, to the great terror and amazement of all that beheld it, &amp;c.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09935</idno><idno type="EEBO-CITATION">80923539</idno>
+  <idno type="VID">191987</idno>
+  <idno type="EEBO-PROQUEST">2240865817</idno>
+  
+            <idno type="OCLC"> 80923539</idno>
+            <idno type="STC">Wing S246B</idno>
+            <idno type="STC">ESTC R183154</idno>
+            <idno type="OCLC">80923539</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09935)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191987)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2897:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sad and true relation of a person found dead in Gun-Fields, on the back-side of Ratcliff-Highway on Sunday morning, the 12th. of this instant September, 1686. Wherein he was found lying against a banck side in a ditch, to the great terror and amazement of all that beheld it, &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by D. Mallet ...,</publisher>
+                  <pubPlace>London; :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"This may be printed, R.P. September the 18th, 1686"--P. [2].</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Howard, Henry, d. 1686.</term>
+               <term type="topical_term">Murder --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:191987:1"/>
+            <head>A Sad and True RELATION of a Person found Dead in GUN-FIELDS, On the Back-side of Ratcliff-Highway On <hi>Sunday</hi> Morning, the 12th. of this Instant <hi>Sep<g ref="char:EOLhyphen"/>tember,</hi> 1686. Where he was found lying against a Banck side in a Ditch, to the great Terror and Amazement of all that beheld it, <hi>&amp;c.</hi>
+            </head>
+            <p>HOw many Dreadful Relations have we daily amongst us of this kind; not<g ref="char:EOLhyphen"/>withstanding which, many People are as forward as ever, in pursuit of their wicked Designs, as if they were never to give any particular Ac<g ref="char:EOLhyphen"/>count to the most high God, of all their Evil Doings; who will one Day, make inquisition for all the Blood that hath been spilt in this Nature: And however, they may escape the Punishment of this present World; yet they must give an impartial and strickt Account in the World to come, of all the sins and in<g ref="char:EOLhyphen"/>iquities they have Committed in this Life, <hi>&amp;c.</hi> But now to proceed to the Mat<g ref="char:EOLhyphen"/>ter as follows.</p>
+            <p>The Person found Dead, was by Name, <hi>Henry Howard,</hi> a Person who was ve<g ref="char:EOLhyphen"/>ry Gentile and in good Habit, who was observed on <hi>Thursday</hi> and <hi>Friday</hi> before, to have walked up and down thereabouts, in the Company of another Gentleman, and on <hi>Friday</hi> Night it was his unhappy Fortune to be taken in a Coffee-house by the Fields side, by a <hi>Headborrow</hi> belonging to the same Parish, who presently car<g ref="char:EOLhyphen"/>ryed the said <hi>Howard</hi> to the Watch-house (it being his Watch Night) but he be<g ref="char:EOLhyphen"/>ing ashamed to see himself in such a Condition, desired the said <hi>Headborrow</hi> to ex<g ref="char:EOLhyphen"/>cuse him so far, as to give him leave to go to some Victualling house thereabouts; upon which, the <hi>Headborrow</hi> keeping a Publick house, told him he should go to his, if he would give him half a Piece for his Civility, which he did; and being there, after having spent. Money pretty freely in the house, he sent for one Mr. <hi>Henry Staples,</hi> who kept the house out of which he was haled, (as will hereafter follow,) to be Suretys for him, to keep him from going to Prison, which the said <hi>Staples,</hi> with some others thereabouts did perform; after giving the <hi>Head<g ref="char:EOLhyphen"/>borrow</hi> Ten Shillings more <hi>Howard</hi> was discharged, but happening to leave the Hilt of his Sword behind him (it being broken by his setting down in a Chair) he went on the Morrow in the Evening for it, to the said <hi>Headborrows</hi> house in <hi>Ratcliff High-way,</hi> and stayed there drinking, till about Nine of the Clock at Night, and then went to Mr. <hi>Staples</hi> house near the Fields side, about Forty Yards off where he was found Dead, but being observed to be extraordinary in Drink by a Neighbour near the said <hi>Headborrows,</hi> and fearing that the said <hi>Head<g ref="char:EOLhyphen"/>borrow</hi> had some Evil Design against him; asked the Deceased whether he would go, and understanding by him, he would go to the said <hi>Staples,</hi> to give him thanks
+<pb facs="tcp:191987:2"/>(as the Deceased said) for his before-mentioned Kindness; and the said <hi>Headbor<g ref="char:EOLhyphen"/>row's</hi> Servant being observed to dog the Deceased towards the said <hi>Staples,</hi> to see where he would go: Immediatly the afore-said Neighbour ran to Mr. <hi>Staples,</hi> and desired him to take Care of him, and get him to some Bed, being so greatly disguised, which the said <hi>Staples</hi> did, with all the Care he could.</p>
+            <p>But the Deceased being set in a Chair by the Bed-side, where <hi>Staples</hi> himself lay, would not yeild to go into the Bed, till he saw the Woman of the <hi>Coffee House,</hi> out of which he was conveyed on the Friday Night; upon which she was im<g ref="char:EOLhyphen"/>mediately sent for, and being come, the said <hi>Staples</hi> asked the Deceased what he had to say to her, who answered nothing at all but to see her; after which being between Nine and Ten of the Clock, the Woman being just going away, and the Deceased being almost ready to go into Bed, to Mr. <hi>Staples</hi>'s, the aforesaid <hi>Headborrow</hi> immediately knockt at the Door, who being let in came up Stairs, and commanded the Deceased to go along with him, but he being in Drink, and refusing to go with him, and <hi>Staples</hi> desiring him to shew his Warrant, the said <hi>Headborrow</hi> having two other Assistants, one of which being his Apprentice, im<g ref="char:EOLhyphen"/>mediately took the Deceased by the Wrist, and haled him by force down two pair of Stairs out into the Yard, and there used the Deceased in a most Barbarous Manner, and crying out Murther, the said <hi>Staples</hi> came down in his Shirt, and askt the said <hi>Headborrow</hi> why he cryed Murther, having but one Drunken-man to deal with, telling him withall, that for ought he knew, he had Murthered the Gentleman; The <hi>Headborrow</hi> replied, he would serve him so, and coming towards him, broak his Head with his Long-staff, and flung him to the Ground in a Rude manner; And another Person coming accidentally by, came into the said <hi>Staples</hi> Assistance, and told him he had Killed the Gentleman already, would he Kill Mr. <hi>Staples</hi> too; upon which, <hi>Staples</hi> and the other Retiring, heard the <hi>Headborrow</hi> command those that were with him, to Drag the Deceased into the Grass: On the Morrow-morning being <hi>Sunday,</hi> the Dead Corpse was found ly<g ref="char:EOLhyphen"/>ing in a Ditch near the House as aforesaid, where after lying some little Time, it was removed to one Mr. <hi>Isaac Dehews</hi> the next <hi>Constables,</hi> and the <hi>Corronors</hi> Inquest being Impannelled, to fit upon the Dead Corpse, they after a full Hea<g ref="char:EOLhyphen"/>ring of all the Witnesses, brought in their Verdict Willful Murther. The said <hi>Headborrow</hi> on the <hi>Sunday,</hi> took up <hi>Staples</hi> for Suspition of Murthering the afore<g ref="char:EOLhyphen"/>said <hi>Howard,</hi> and being carried before one of his Majesties Justices, the Evi<g ref="char:EOLhyphen"/>dence of <hi>Staples</hi> and others being too strong for the <hi>Headborrow,</hi> he himself was immediately Committed to <hi>Newgate,</hi> and the rest who Assisted him, were taken into Custody, his Apprentice being since also sent to <hi>Newgate,</hi> where they Re<g ref="char:EOLhyphen"/>main till the next General Sessions of the Peace, to Receive the Just Reward of their Evil Doings, <hi>&amp;c.</hi>
+            </p>
+            <p>There was nothing found in the Deceased's Pockets when he was Discovered, but onely one <hi>Hood,</hi> one <hi>Belt,</hi> one Hilt of a <hi>Sword,</hi> a <hi>Silver Snuff Box,</hi> and a <hi>Steel Tobacco Box,</hi> one <hi>Gold Ring,</hi> and a piece of Outlandish <hi>Silver,</hi> and some small <hi>Keys,</hi> and a <hi>Knife,</hi> and Four pence in <hi>Money,</hi> &amp;c.</p>
+            <p>The Truth of this Relation is Attested by the Persons whose Names are un<g ref="char:EOLhyphen"/>derwritten, who were some of them Eye Witnesses of this sad Accident, <hi>viz.</hi>
+               <list>
+                  <item>
+                     <hi>Henry Staples.</hi>
+                  </item>
+                  <item>
+                     <hi>Isaac Dehew</hi> Constable.</item>
+                  <item>
+                     <list>
+                        <head>All Sufficient People.</head>
+                        <item>
+                           <hi>Henry Johnson</hi>
+                        </item>
+                        <item>
+                           <hi>Cha. Denning</hi>
+                        </item>
+                        <item>
+                           <hi>Rich. Poole</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>
+                     <hi>Sarah Hodges</hi> the Coffee-Woman.</item>
+               </list>
+            </p>
+            <closer/>
+            <postscript>
+               <p>This may be Printed,</p>
+               <closer>
+                  <signed>R. P.</signed>
+                  <dateline>
+                     <date>
+                        <hi>September</hi> the 18th, 1686.</date>
+                  </dateline>
+               </closer>
+            </postscript>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON;</hi> Printed by <hi>D. Mallet,</hi> next Door to Mr. <hi>Shipton's</hi> Coffee-house near <hi>Fleet-bridge,</hi> 1686.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
